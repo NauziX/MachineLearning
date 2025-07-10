@@ -1,16 +1,14 @@
 # MachineLearning
 
 Repositorio **educativo** para practicar los fundamentos de *Machine Learning* con Python.
-
-1. **Notebooks** con ejercicios guiados paso a paso.
-2. **Proyectos** finales aplicando técnicas de ML.
+ **Notebook** con ejercicios guiados paso a paso.
 
 ---
 
 ##  Resumen
 
 - **Objetivo**: aprender conceptos básicos de ML (preprocesado, algoritmos de regresión, clasificación, clustering, etc.) de forma práctica.
-- **Datos**: datasets incluidos en el repo.
+- **Datos**: dataset incluidos en el repo.
 - **Modelos**: implementación de algoritmos comunes (Regresión Lineal, Regresión Logística, Árboles de Decisión, Random Forest, K‑NN, K‑Means, etc.).
 - **Herramientas**: Python 3, pandas, NumPy, Matplotlib/Seaborn y scikit‑learn.
 
@@ -42,7 +40,7 @@ Python ≥ 3.10 recomendado.
    jupyter notebook
    ```
    Esto abrirá la interfaz de Jupyter en tu navegador.
-2. **Ejecutar notebooks**: abre el notebook y corre todas las celdas.
+2. **Ejecutar notebook**: abre el notebook y corre todas las celdas.
 ---
 
 Autor: Nauzet Fernández Lorenzo.
