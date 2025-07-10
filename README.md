@@ -22,6 +22,7 @@ MachineLearning/
 ├── Práctica ML.pdf     # Requisitos del ejercicio
 ├── airbnb-listings-extract.csv         # Conjuntos de datos de ejemplo
 ├── Proyecto-Final.ipynb      # Proyecto completo 
+├── requirements.txt # Librerias principales
 └── README.md         # Este archivo 😉
 ```
 
@@ -43,4 +44,6 @@ Python ≥ 3.10 recomendado.
    Esto abrirá la interfaz de Jupyter en tu navegador.
 2. **Ejecutar notebooks**: abre el notebook y corre todas las celdas.
 ---
+
+Autor: Nauzet Fernández Lorenzo.
 
