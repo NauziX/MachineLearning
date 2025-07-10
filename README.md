@@ -16,7 +16,7 @@ Repositorio **educativo** para practicar los fundamentos de *Machine Learning* c
 
 ---
 
-## 🗂️ Estructura mínima
+## Estructura mínima
 ```bash
 MachineLearning/
 ├── Práctica ML.pdf     # Requisitos del ejercicio
@@ -27,7 +27,7 @@ MachineLearning/
 
 ---
 
-## 🛠️ Requisitos rápidos
+## Requisitos rápidos
 ```bash
 pip install -r requirements.txt   # Instalar dependencias principales
 ```
@@ -35,12 +35,12 @@ Python ≥ 3.10 recomendado.
 
 ---
 
-## 🚀 Puesta en marcha
+## Puesta en marcha
 1. **Iniciar Jupyter**:
    ```bash
    jupyter notebook
    ```
    Esto abrirá la interfaz de Jupyter en tu navegador.
-2. **Ejecutar notebooks**: abre el notebook deseado y corre todas las celdas.
+2. **Ejecutar notebooks**: abre el notebook y corre todas las celdas.
 ---
 
